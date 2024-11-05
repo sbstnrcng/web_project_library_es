@@ -374,7 +374,7 @@
   font-size: 16px;
 }
 
-.footer__logo {
+.footer__column_logo {
   display: flex;
   flex-direction: column;
   width: 58px;
